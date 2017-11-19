@@ -17,13 +17,13 @@ This application is a project for INSTA in order to practice Android in a clean 
 Presentation
 -+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-
 
-This app features Pokeapi API to fetch Pokemons datas. It retrieves all the 805 known Pokemon by ID. Details available are the name, the wight, the height and the default front face. More to come, like types, encounter zones, more sprites, ...
+This app features Pokeapi API to fetch Pokemons datas. It retrieves all the 805 known Pokemon by ID. Details available are the name, the wight, the height and the default front sprite. More to come, like types, encounter zones, more sprites, ...
 
 
 Apps features
 -+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-+*+-
 
-App's fonctionnalities are basic : have list with the first 20 Pokemons (to avoid jamming Pokeapi servers), click on one ang get basic informations. 
+App's fonctionnalities are basic : have list with the first 20 Pokemons (to avoid jamming Pokeapi servers), click on one and get basic informations. 
 App features a search bar too, enter Pokemon's name or ID, and let the fetching do the job.
 That's ... All for the moment, but more features will be added soon !
 
