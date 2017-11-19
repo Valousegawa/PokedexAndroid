@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pokedex_v2</string>
+    <string name="pkmn_name">PKMN name</string>
+    <string name="pkmn_weight">PKMN weight</string>
+    <string name="pkmn_height">PKMN height</string>
+    <string name="app_label">Search</string>
+    <string name="search_hint">Pkm name/ID</string>
+    <string name="search_title">Search</string>
+</resources>
